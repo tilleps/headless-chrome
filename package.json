@@ -1,0 +1,16 @@
+{
+  "name": "headless-chrome",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chromedriver": "^2.31.0",
+    "webdriverio": "^4.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eugene Song <tilleps@gmail.com>",
+  "license": "ISC"
+}
